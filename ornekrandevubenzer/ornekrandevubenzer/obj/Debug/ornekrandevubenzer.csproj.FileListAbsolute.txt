@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\obj\Debug\ornekrandevubenzer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\obj\Debug\ornekrandevubenzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\obj\Debug\ornekrandevubenzer.Form1.resources
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\obj\Debug\ornekrandevubenzer.Properties.Resources.resources
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\obj\Debug\ornekrandevubenzer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\obj\Debug\ornekrandevubenzer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\bin\Debug\ornekrandevubenzer.exe.config
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\bin\Debug\ornekrandevubenzer.exe
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\bin\Debug\ornekrandevubenzer.pdb
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\obj\Debug\ornekrandevubenzer.exe
+C:\Users\User\source\repos\ornekrandevubenzer\ornekrandevubenzer\obj\Debug\ornekrandevubenzer.pdb
